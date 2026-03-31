@@ -102,11 +102,11 @@ plt.plot(predicted_stock_price, color='blue', label='Predicted Stock Price')
 plt.legend()
 plt.show()
 ```
-[
+
 
 <img width="716" height="571" alt="Image" src="https://github.com/user-attachments/assets/f6a8a87b-e498-496c-aacd-461fcfd75d13" />
 
-](url)
+
 ## Results
 The model generates predictions for stock prices and visualizes them against actual prices. The visualization helps evaluate the model's accuracy in capturing stock price trends.
 

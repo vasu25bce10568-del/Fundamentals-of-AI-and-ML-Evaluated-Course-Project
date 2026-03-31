@@ -124,3 +124,6 @@ The model generates predictions for stock prices and visualizes them against act
 
 ## Acknowledgments
 This project demonstrates the application of LSTM networks for time series forecasting in financial markets.
+
+# *Author*:
+- Vasu Makkar (vasu.25bce10568@vitbhopal.ac.in]
